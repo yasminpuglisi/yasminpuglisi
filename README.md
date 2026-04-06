@@ -2,7 +2,7 @@
 <div>
 <p>
 https://github.com/yasminpuglisi/yasminpuglisi/edit/main/README.md
-<img src= width="100%" height="auto"/>
+<img src=file:///C:/Users/yasmin.cpuglisi/Downloads/Apresenta%C3%A7%C3%A3o%20B%C3%A1sica%20Minimalista%20Preto%20e%20Branco.pdf width="100%" height="auto"/>
 </a>
 </p>
 <p align="right">

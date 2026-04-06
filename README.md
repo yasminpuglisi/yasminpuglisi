@@ -13,7 +13,7 @@ https://github.com/yasminpuglisi/yasminpuglisi/edit/main/README.md
  
 ###
  
-## Desenvolvedor Fullstack | Criador de Jogos e Aplicações Web | Professor e Criador de Conteúdo
+## Desenvolvedor Fullstack |
  
 Olá, meu nome é Yasmin Puglisi, tenho 17 anos e quero cada vez mais adquirir conhecimento para uma boa vida profissional. Para isso, no momento estou cursando um curso pelo Senac, chamado Desenvolvedor de Full Stack 
 ## Principais Habilidades
@@ -21,4 +21,4 @@ Olá, meu nome é Yasmin Puglisi, tenho 17 anos e quero cada vez mais adquirir c
 📩 Vamos conversar! Estou aberto a colaborações, projetos e oportunidades na área de tecnologia.
 
 <br />  
-<p>Gostou da minha página de perfíl, então clique no <a href="https://dfilitto.com.br/?p=15740">link</a> para aprender a criar a sua própria página de perfil.<p/>
+<p><p/>
